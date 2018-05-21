@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "inteligencia": [
+    { "id": 1, "title": "espacial" },
+    { "id": 2, "title": "musical" },
+    { "id": 3, "title": "linguistica" },
+    { "id": 4, "title": "matematica" },
+    { "id": 5, "title": "cinestesia" },
+    { "id": 6, "title": "intrapersonal" },
+    { "id": 7, "title": "naturalista" }
+  ]
 }
